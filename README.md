@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **Hafiz Waqar Khalid**
+# 👋 Hi, I'm **Hafiz M.Waqar Khalid**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0FF&center=true&vCenter=true&width=550&lines=AI+%26+Media+Innovator;Generative+AI+Specialist;Python+Developer;Prompt+Engineering+Expert;Visual+Storyteller)](https://git.io/typing-svg)
 
@@ -27,7 +27,7 @@
 
 ## 🚀 About Me
 
-I’m a **Mass Communication graduate and Vice President of my Media Society**, passionate about blending **Generative AI, Prompt Engineering, and Visual Communication** to build intelligent, creative, and purpose-driven digital solutions.  
+I’m a **Mass Communication graduate**, passionate about blending **Generative AI, Prompt Engineering, and Visual Communication** to build intelligent, creative, and purpose-driven digital solutions.  
 With certifications from **LinkedIn Learning** and hands-on experience in **Python, Machine Learning, NLP, and OOP**, I focus on creating **AI-powered media tools** and **automation frameworks** that redefine how humans interact with technology and storytelling.
 
 I combine **journalistic insight, design thinking, and AI logic** to craft smarter workflows, engaging interfaces, and innovative media products for the modern age.
