@@ -11,7 +11,7 @@ Hi, I'm Hafiz M. Waqar!
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Associate+@Talent+Trellis;Full+Stack+Developer;Mass+Communication+Graduate;Creative+Media+Strategist;Always+Learning+New+Things&center=true&width=420&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Associate+@Talent+Trellis;GEN+Stack+Developer;Mass+Communication+Graduate;Creative+Media+Strategist;Always+Learning+New+Things&center=true&width=420&height=45">
   </a>
 </p>
 
@@ -72,7 +72,7 @@ Hi, I'm Hafiz M. Waqar!
 
 ## 🤝 Let's Collaborate!
 
-If you're working on AI, journalism-tech, or full-stack projects — let’s connect!  
+If you're working on AI, AI Associate, or GEN-Stack projects — let’s connect!  
 📧 [Email me](mailto:hafizwaqarkhalid@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/hafizwaqarkhalid/) | 🎥 [Portfolio (Coming Soon)]()
 
 ---
@@ -80,8 +80,6 @@ If you're working on AI, journalism-tech, or full-stack projects — let’s con
 > “Blending creativity with technology isn’t just my career — it’s my craft.”
 
 ---
-
-Credits: [Original Template by Vishal Maurya](https://github.com/I-am-vishalmaurya)
 <!--
 **hafizwaqar147/hafizwaqar147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
