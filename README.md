@@ -2,7 +2,24 @@
 
 # 👋 Hi, I'm **Hafiz Waqar Khalid**
 
-🎯 **AI & Media Innovator | Generative AI Specialist | Python Developer | Visual Storyteller**  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0FF&center=true&vCenter=true&width=550&lines=AI+%26+Media+Innovator;Generative+AI+Specialist;Python+Developer;Prompt+Engineering+Expert;Visual+Storyteller)](https://git.io/typing-svg)
+
+---
+
+### 🧰 Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-00CC66?style=for-the-badge&logo=coreldraw&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Microsoft 365 Copilot](https://img.shields.io/badge/Microsoft%20365%20Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 </div>
 
@@ -13,7 +30,7 @@
 I’m a **Mass Communication graduate and Vice President of my Media Society**, passionate about blending **Generative AI, Prompt Engineering, and Visual Communication** to build intelligent, creative, and purpose-driven digital solutions.  
 With certifications from **LinkedIn Learning** and hands-on experience in **Python, Machine Learning, NLP, and OOP**, I focus on creating **AI-powered media tools** and **automation frameworks** that redefine how humans interact with technology and storytelling.
 
-I bring together **journalistic insight, design thinking, and AI logic** to craft smarter workflows, engaging interfaces, and innovative media products for the modern age.
+I combine **journalistic insight, design thinking, and AI logic** to craft smarter workflows, engaging interfaces, and innovative media products for the modern age.
 
 ---
 
@@ -40,18 +57,6 @@ I bring together **journalistic insight, design thinking, and AI logic** to craf
 - 💡 **Web Development (PIAIC)** — Full-stack fundamentals with Python & JS  
 - 🎨 **Graphic Designing (Print Media)** — PSDF Certified  
 - 📺 **Media Workshop** — Women Media Center  
-
----
-
-## 🧩 Featured Projects
-
-| Project Name | Description | Tech Stack |
-|---------------|-------------|-------------|
-| **Medicine Alternative Finder – Pakistan Edition** | AI tool for identifying safe medicine substitutes and brand matches | Python, FastAPI, OpenAI API |
-| **LegalEase – AI Law & Rights Explainer** | Localized AI chatbot explaining Pakistani legal rights | NLP, LangChain, Python |
-| **Sketching Web – Freemium** | AI-powered creative drawing and coloring tool for designers | HTML, CSS, JS, CorelDRAW |
-| **Urdu OCR Detector** | Optical Character Recognition system for Urdu language text detection | Python, Tesseract, NLP |
-| **Prompt Generator Chatbot** | Smart assistant that auto-builds effective AI prompts | OpenAI API, Python, Prompt Engineering |
 
 ---
 
