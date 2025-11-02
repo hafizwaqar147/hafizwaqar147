@@ -79,10 +79,9 @@ I combine **journalistic insight, design thinking, and AI logic** to craft smart
 
 ## 📫 Let’s Connect
 
-[![Email](https://img.shields.io/badge/Email-hafizwaqarkhalid%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafizwaqarkhalid@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hafiz%20Waqar%20Khalid-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafizwaqarkhalid)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923341042768)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-lightgrey?style=for-the-badge&logo=google-chrome&logoColor=black)](#)
+[![Gmail](https://img.shields.io/badge/-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafizwaqarkhalid@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafizwaqarkhalid)
+[![WhatsApp](https://img.shields.io/badge/-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923341042768)
   
 ⚡ Always open for **AI collaborations, creative partnerships, and research-driven projects.**
 
