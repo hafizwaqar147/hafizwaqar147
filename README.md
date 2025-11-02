@@ -81,7 +81,7 @@ I combine **journalistic insight, design thinking, and AI logic** to craft smart
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/hafizwaqarkhalid/">
+<a href="https://www.linkedin.com/in/hafizwaqar/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
