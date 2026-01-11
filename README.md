@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm **Hafiz M.Waqar Khalid**
+#  Hi, I'm **Hafiz M.Waqar Khalid**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0FF&center=true&vCenter=true&width=550&lines=AI+%26+Media+Innovator;Generative+AI+Specialist;Python+Developer;Prompt+Engineering+Expert;Visual+Storyteller)](https://git.io/typing-svg)
 
 ---
 
-### 🧰 Tech Stack & Tools
+###  Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -25,7 +25,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I’m a **Mass Communication graduate**, passionate about blending **Generative AI, Prompt Engineering, and Visual Communication** to build intelligent, creative, and purpose-driven digital solutions.  
 With certifications from **LinkedIn Learning** and hands-on experience in **Python, Machine Learning, NLP, and OOP**, I focus on creating **AI-powered media tools** and **automation frameworks** that redefine how humans interact with technology and storytelling.
@@ -34,7 +34,7 @@ I combine **journalistic insight, design thinking, and AI logic** to craft smart
 
 ---
 
-## 🧠 Expertise Snapshot
+##  Expertise Snapshot
 
 - **Generative AI & LLMs:** ChatGPT, Gemini, Copilot, Claude, OpenAI API integration  
 - **Prompt Engineering:** Advanced prompt design, system prompting, task chaining, few-shot reasoning  
@@ -46,21 +46,21 @@ I combine **journalistic insight, design thinking, and AI logic** to craft smart
 
 ---
 
-## 🎓 Certifications & Learning Highlights
+##  Certifications & Learning Highlights
 
-- 🧩 **Advanced Prompt Engineering Techniques** — LinkedIn Learning Community *(Nov 2025)*  
-- 🧠 **The State of Generative AI: Images, Prompting, and Language Models** — LinkedIn Learning *(Nov 2025)*  
-- 🤖 **Prompt Engineering: How to Talk to the AI's** — LinkedIn Learning *(Oct 2025)*  
-- 💼 **Learning Microsoft 365 Copilot for Work** — LinkedIn Learning *(Oct 2025)*  
-- 🐍 **Python Quick Start** — LinkedIn Learning *(Oct 2025)*  
-- 🧾 **Python for Non-Programmers** — LinkedIn Learning *(Oct 2025)*  
-- 💡 **Web Development (PIAIC)** — Full-stack fundamentals with Python & JS  
-- 🎨 **Graphic Designing (Print Media)** — PSDF Certified  
-- 📺 **Media Workshop** — Women Media Center  
+-  **Advanced Prompt Engineering Techniques** — LinkedIn Learning Community *(Nov 2025)*  
+-  **The State of Generative AI: Images, Prompting, and Language Models** — LinkedIn Learning *(Nov 2025)*  
+-  **Prompt Engineering: How to Talk to the AI's** — LinkedIn Learning *(Oct 2025)*  
+-  **Learning Microsoft 365 Copilot for Work** — LinkedIn Learning *(Oct 2025)*  
+-  **Python Quick Start** — LinkedIn Learning *(Oct 2025)*  
+-  **Python for Non-Programmers** — LinkedIn Learning *(Oct 2025)*  
+-  **Web Development (PIAIC)** — Full-stack fundamentals with Python & JS  
+-  **Graphic Designing (Print Media)** — PSDF Certified  
+-  **Media Workshop** — Women Media Center  
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
 **Languages & Frameworks:** Python, HTML, CSS, JavaScript, FastAPI  
 **AI/ML Tools:** OpenAI API, LangChain, Hugging Face, Pandas, NumPy  
@@ -70,14 +70,14 @@ I combine **journalistic insight, design thinking, and AI logic** to craft smart
 
 ---
 
-## 💡 Philosophy
+##  Philosophy
 
 > “Generative AI isn’t replacing creativity — it’s amplifying it.  
 > My mission is to make media smarter, more human, and beautifully automated.”
 
 ---
 
-## 📫 Let’s Connect
+##  Let’s Connect
 
 <div align="center">
 
@@ -96,12 +96,12 @@ I combine **journalistic insight, design thinking, and AI logic** to craft smart
 </div>
 
   
-⚡ Always open for **AI collaborations, creative partnerships, and research-driven projects.**
+ Always open for **AI collaborations, creative partnerships, and research-driven projects.**
 
 ---
 
 <div align="center">
 
-⭐ **Transforming Ideas into Intelligent Experiences**
+ **Transforming Ideas into Intelligent Experiences**
 
 </div>
